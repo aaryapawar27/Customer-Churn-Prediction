@@ -1,4 +1,5 @@
 📉 Customer Churn Prediction
+
 🎯 Project Objective
 
 The goal of this project is to predict which customers are likely to leave a telecommunications company using historical data. Accurate churn prediction enables the business to design targeted retention strategies, improve customer satisfaction, and reduce revenue loss due to attrition.
